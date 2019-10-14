@@ -1,0 +1,94 @@
+* {font-family: georgia}
+
+h1 {  color:black;
+      font-size:200%;
+      text-align: left;
+    line-height: 125%}
+
+h5 {line-height: 135%;
+    font-size:100%}
+
+h6 {  color:black;
+      font-size:80%;
+      text-align: left;
+      font-style: normal;
+      line-height: 40%;
+
+      }
+
+body{ line-height: 150%}
+
+.cover {caption-side: bottom;
+        font-size: 15px;
+        color:#C2C5CC;
+        text-align: left;
+        height:50%
+        }
+
+.photo {caption-side: bottom;
+        font-size: 12px;
+        color:#C2C5CC;
+        text-align: left;
+        line-height: 150%
+        }
+
+.layout {width:50%;
+         margin-left: auto;
+         margin-right: auto;}
+
+.icons :hover {color:black
+               }
+
+img {    width:100%;
+      }
+
+.icons img {width:5%;}
+
+mark {  background-color: black;
+        color:white}
+
+#one {  width:10%;
+        height: 10%;
+        right:15%;
+        position:absolute;
+        caption-side: bottom;
+        font-size: 12px;
+        text-align: left;
+        color:#C2C5CC;
+        line-height: 125%;
+
+        }
+
+#two{   width:10%;
+        height: 10%;
+        left:15%;
+        position:absolute;
+        caption-side: bottom;
+        font-size: 12px;
+        text-align: left;
+        color:#C2C5CC;
+        line-height: 125%
+        }
+
+#three{ width:10%;
+        height: 10%;
+        right:15%;
+        position:absolute;
+        caption-side: bottom;
+        font-size: 12px;
+        color:#C2C5CC;
+        font-size: 12px;
+        text-align: left;
+        line-height: 125%
+        }
+
+#four{  width:10%;
+        left:15%;
+        position:absolute;
+        caption-side: bottom;
+        font-size: 12px;
+        color:#C2C5CC;
+        font-size: 12px;
+        text-align: left;
+        line-height: 125%
+        }
